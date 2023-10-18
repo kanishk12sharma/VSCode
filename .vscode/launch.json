@@ -1,0 +1,574 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Rotatenumbertimes",
+            "request": "launch",
+            "mainClass": "Rotatenumbertimes",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Pyramidpatt",
+            "request": "launch",
+            "mainClass": "Pyramidpatt",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "PatternRightRhombus",
+            "request": "launch",
+            "mainClass": "PatternRightRhombus",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "PatternHollowRhombus",
+            "request": "launch",
+            "mainClass": "PatternHollowRhombus",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "RhombusPatt",
+            "request": "launch",
+            "mainClass": "RhombusPatt",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abc",
+            "request": "launch",
+            "mainClass": "Abc",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Armstrongseries",
+            "request": "launch",
+            "mainClass": "Armstrongseries",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "Array2D",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Arraydemo",
+            "request": "launch",
+            "mainClass": "Arraydemo",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Arraymiss",
+            "request": "launch",
+            "mainClass": "Arraymiss",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Arraymissing",
+            "request": "launch",
+            "mainClass": "Arraymissing",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Arrayre",
+            "request": "launch",
+            "mainClass": "Arrayre",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "BMI",
+            "request": "launch",
+            "mainClass": "BMI",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "CRUD",
+            "request": "launch",
+            "mainClass": "CRUD",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Consonantorvowel",
+            "request": "launch",
+            "mainClass": "Consonantorvowel",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Countdigit",
+            "request": "launch",
+            "mainClass": "Countdigit",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Countdigits",
+            "request": "launch",
+            "mainClass": "Countdigits",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "DNS_2",
+            "request": "launch",
+            "mainClass": "DNS_2",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Days",
+            "request": "launch",
+            "mainClass": "Days",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Digitsum",
+            "request": "launch",
+            "mainClass": "Digitsum",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Discount",
+            "request": "launch",
+            "mainClass": "Discount",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "EmpLoginSystem",
+            "request": "launch",
+            "mainClass": "EmpLoginSystem",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Employsal",
+            "request": "launch",
+            "mainClass": "Employsal",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Evenodd",
+            "request": "launch",
+            "mainClass": "Evenodd",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Evenoddbyloop",
+            "request": "launch",
+            "mainClass": "Evenoddbyloop",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Factorialofnum",
+            "request": "launch",
+            "mainClass": "Factorialofnum",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Fibo",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Hash",
+            "request": "launch",
+            "mainClass": "Hash",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Hollow",
+            "request": "launch",
+            "mainClass": "Hollow",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Hollowtri",
+            "request": "launch",
+            "mainClass": "Hollowtri",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Kanishk",
+            "request": "launch",
+            "mainClass": "Kanishk",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Leapyear",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Max2d",
+            "request": "launch",
+            "mainClass": "Max2d",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Maxele",
+            "request": "launch",
+            "mainClass": "Maxele",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Menudrivencalc",
+            "request": "launch",
+            "mainClass": "Menudrivencalc",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Menudrivencalcs",
+            "request": "launch",
+            "mainClass": "Menudrivencalcs",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "MultiD",
+            "request": "launch",
+            "mainClass": "MultiD",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Npattern",
+            "request": "launch",
+            "mainClass": "Npattern",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Onetwopattern",
+            "request": "launch",
+            "mainClass": "Onetwopattern",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Onezeropattern",
+            "request": "launch",
+            "mainClass": "Onezeropattern",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Onezpattern",
+            "request": "launch",
+            "mainClass": "Onezpattern",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Pat",
+            "request": "launch",
+            "mainClass": "Pat",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Patt",
+            "request": "launch",
+            "mainClass": "Patt",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Patt1",
+            "request": "launch",
+            "mainClass": "Patt1",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "PatternRect",
+            "request": "launch",
+            "mainClass": "PatternRect",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Pivotindex",
+            "request": "launch",
+            "mainClass": "Pivotindex",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Primeno",
+            "request": "launch",
+            "mainClass": "Primeno",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Primenumber",
+            "request": "launch",
+            "mainClass": "Primenumber",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Rect",
+            "request": "launch",
+            "mainClass": "Rect",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Revereseonetwo",
+            "request": "launch",
+            "mainClass": "Revereseonetwo",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Reverseonezero",
+            "request": "launch",
+            "mainClass": "Reverseonezero",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Rotate",
+            "request": "launch",
+            "mainClass": "Rotate",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Rotatea",
+            "request": "launch",
+            "mainClass": "Rotatea",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Runningsum",
+            "request": "launch",
+            "mainClass": "Runningsum",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Salaryemp",
+            "request": "launch",
+            "mainClass": "Salaryemp",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Season",
+            "request": "launch",
+            "mainClass": "Season",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Seconmax",
+            "request": "launch",
+            "mainClass": "Seconmax",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "SimpleAtm",
+            "request": "launch",
+            "mainClass": "SimpleAtm",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Simpletraffic",
+            "request": "launch",
+            "mainClass": "Simpletraffic",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Sort0and1",
+            "request": "launch",
+            "mainClass": "Sort0and1",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Span",
+            "request": "launch",
+            "mainClass": "Span",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Sumf",
+            "request": "launch",
+            "mainClass": "Sumf",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Swapp",
+            "request": "launch",
+            "mainClass": "Swapp",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Target",
+            "request": "launch",
+            "mainClass": "Target",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Target10",
+            "request": "launch",
+            "mainClass": "Target10",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Tax",
+            "request": "launch",
+            "mainClass": "Tax",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "VSCode_a4a49f02"
+        },
+        {
+            "type": "java",
+            "name": "Transpose",
+            "request": "launch",
+            "mainClass": "Transpose",
+            "projectName": "VSCode_a4a49f02"
+        }
+    ]
+}
